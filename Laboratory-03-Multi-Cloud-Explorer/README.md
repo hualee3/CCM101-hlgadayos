@@ -18,7 +18,7 @@ The commands used in KillerCoda terminal are:
 
 ## Terminal Output
 
-![Linux Investigation](screenshots\killercoda-terminal.png)
+![Linux System Investigation](screenshots/killercoda-terminal.png)
 
 ## Cloud Migration
 
